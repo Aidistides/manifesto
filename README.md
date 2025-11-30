@@ -1,4 +1,4 @@
-# manifesto
+# The Enotrium Manifesto
 
 
 ## After the direct and indirect experience of the brokenness of America’s food supply, the cooperate overreach into agriculture, and the gradual downfall of rural America, it has become the responsibility of farmers and entrepreneurs to band together and form new systems of economic self-sovereignty which impel the Nation to its true destiny. To those who understand, the importance of agriculture need not be explained, containing nothing less than America’s left hand in national security and civil liberties on its right. 
