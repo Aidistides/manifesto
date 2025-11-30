@@ -1,7 +1,7 @@
 # manifesto
 
 
-#After the direct and indirect experience of the brokenness of America’s food supply, the cooperate overreach into agriculture, and the gradual downfall of rural America, it has become the responsibility of farmers and entrepreneurs to band together and form new systems of economic self-sovereignty which impel the Nation to its true destiny. To those who understand, the importance of agriculture need not be explained, containing nothing less than America’s left hand in national security and civil liberties on its right. 
+## After the direct and indirect experience of the brokenness of America’s food supply, the cooperate overreach into agriculture, and the gradual downfall of rural America, it has become the responsibility of farmers and entrepreneurs to band together and form new systems of economic self-sovereignty which impel the Nation to its true destiny. To those who understand, the importance of agriculture need not be explained, containing nothing less than America’s left hand in national security and civil liberties on its right. 
 
 	The fate of America is the most interesting question in the world. Nearly 250 years after America’s founding, it is often implied, that modern American’s lack the will to rule themselves and direct the will of the nation to new heights. I reject all fatalism.  I contest, like the Founders, for America to maintain its global standing we must adhere strictly to the creation of strong regional agricultural economies using all the cards we’ve been dealt. These cards include 900 million acres of arable farmland, the ease of direct communication, an immense capacity for building new technologies and regional transport between agricultural and industrial supply chains. Yet despite America’s natural capacity of being the global agricultural powerhouse on the planet, yearly agricultural imports are approaching $300 billion, land is sold off to foreign investors, and farmers choose to grow nothing but corn and soy. Meanwhile Americans are battling chronic illness at rates never seen before.  Foreign actors have inundated our supply chains with non-food ingredients, and unnamed chemicals are classified as proprietary and EPA approved. Chinese Agroterrorism has emerged with attacks on American farmland. Undisclosed suppliers deliver genetically modified pests and unnamed seeds around America, often laced with blight and toxic fungi.  Well government agencies do not have the bandwidth to oversee global supply chains and prevent attacks, let alone verify quality and certify food grown abroad as organic. 
 
@@ -40,16 +40,17 @@ Thus the Cæsars ruined the Roman liberty, under the titles of tribunicial and d
 
 Clean and regional food supplies, all American grown are no longer to be thought of as a luxury, but a basic foundation to national security and individual liberty.  Farming is the foundation of every industry which will secure critical inputs, protect innovation, and sustain competitiveness in the next generation of world economy.  American farmland will no longer be disconnected from the most important industries in the world, farmers will be the first step in a supply chain critical to the economic success of the nation. 
 
-Streamlining Farm-to-Table Operations
+## Streamlining Farm-to-Table Operations
 Enotrium is preserving the transparency and integrity of the food and agricultural value chain. From farm-to-table supply chain modeling and dynamic inventory sourcing to increasing crop yield and remediating waste and soil toxins, Enotrium streamlines and traces essential systems across the Nation. Our terminal enables enterprise provability for food safety and quality assurance, embedded with precise financial forecasting, while drafting encrypted contracts to automate shipping and delivery.
 
-Data-Powered 
+## Data-Powered 
 Enotrium enables manufacturers, processors, and farmers to control their operations and capture significantly more value than before. By sourcing and encrypting disparate data and building intelligent oversight models that elevate understanding and mapping of alternative business decisions, Enotrium’s AI platform is transforming food and agricultural businesses for the new era of technology.
 
-Traceability and Predictive Foresight
+## Traceability and Predictive Foresight
 Enotrium’s traceability of supply chains is to help farmers and enterprising agriculture companies to leverage their data to track business opportunities and develop the foresight to prevent weak yield cycles, agricultural attacks or unforeseen price fluctuations in commodity prices at the pace necessary to profit in the twenty first century.
 
-Securing America's Industrial Base
+## Securing America's Industrial Base
+
 Enotrium is redefining the future of America's industrial sector by integrating permissioned ledgers, AI-driven monitoring, and advanced control systems to create resilient, transparent, and autonomous supply chains. Drawing from our core mission to revitalize rural economies and shift away from toxic industrial agriculture, we extend these principles to bio-based manufacturing and broader industrials. By leveraging decentralized technologies, we aim to protect against vulnerabilities like supply chain disruptions, foreign dependencies, and inefficiencies caused by centralized monopolies.
 
 Permissioned Ledgers for Secure Transactions
